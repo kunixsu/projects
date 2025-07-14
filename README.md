@@ -2,6 +2,9 @@
 
 Graph-based Anomaly Detection using Python, PostgreSQL, and Power BI to identify suspicious transactions and accounts for Anti-Money Laundering (AML).
 
+NOTE- (cleaned_banking_data.csv` DATA SET),is too large for GitHub.  
+If you'd like the full dataset, feel free to reach out via LinkedIn or email.
+
 # Overview
 
 This project analyzes a banking transaction dataset with over 1.4 million entries to detect suspicious accounts using network analysis and anomaly detection techniques.
